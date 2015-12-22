@@ -1,0 +1,28 @@
+name: DoTheQ
+favicon: null
+layout_spectrum: 0.37767503783106804
+typography_spectrum: 0.1783589175902307
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9984924776945263
+  lightness: 0.44616552791558206
+  saturation: 0.8090282585471869
+  rhythmicContrast: 0.3650662985164672
+purpose: []
